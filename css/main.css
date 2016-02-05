@@ -1,0 +1,59 @@
+@-moz-viewport { width: device-width; scale: 1; }
+@-ms-viewport { width: device-width; scale: 1; }
+@-o-viewport { width: device-width; scale: 1; }
+@-webkit-viewport { width: device-width; scale: 1; }
+@viewport { width: device-width; scale: 1; }
+
+html {
+  box-sizing: border-box;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+
+  background-color: #efefef;
+  font-family: sans-serif;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+.title {
+  width: 75%;
+  height: auto;
+}
+
+.graph {
+  width: 33%;
+  height: auto;
+}
+
+.number-of-cookies {
+  width: 33%;
+  height: auto;
+}
+
+.jensharpe {
+  width: 33%;
+}
+
+.dc {
+  width: 20%;
+}
+
+.girl {
+  width: 33%;
+}
+
+.mints {
+  width: 20%;
+}
+
+.store {
+  width: 40%;
+}
+
+.piechart {
+  width: 40%;
+}
