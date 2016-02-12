@@ -19,41 +19,7 @@ html {
   box-sizing: inherit;
 }
 
-.title {
-  width: 75%;
-  height: auto;
-}
+@media only screen and (min-width: 29em) {
 
-.graph {
-  width: 33%;
-  height: auto;
-}
 
-.number-of-cookies {
-  width: 33%;
-  height: auto;
-}
-
-.jensharpe {
-  width: 33%;
-}
-
-.dc {
-  width: 20%;
-}
-
-.girl {
-  width: 33%;
-}
-
-.mints {
-  width: 20%;
-}
-
-.store {
-  width: 40%;
-}
-
-.piechart {
-  width: 40%;
 }
