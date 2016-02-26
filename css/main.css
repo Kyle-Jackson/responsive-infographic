@@ -34,3 +34,58 @@ html {
 .graph {
   width: 100%;
 }
+
+.st0 {
+  fill: #002f00;
+}
+
+.st1 {
+  fill: #fff;
+}
+
+.st2 {
+  fill: #b4cfb1;
+}
+
+.st3 {
+  fill: #231f20;
+}
+
+.st4 {
+  fill: none;
+  stroke: #23ff20;
+  stroke-width: 1.7;
+  stroke-miterlimit: 10;
+}
+
+.st5 {
+  fill: none;
+}
+
+.st6 {
+  fill: #b9a18c;
+}
+
+.st7 {
+  fill: #603913;
+}
+
+.st8 {
+  fill: #b59c86;
+}
+
+.st9 {
+  fill: #9e7f64;
+}
+
+.st10 {
+  fill: #3d1f00;
+}
+
+.st11 {
+  fill: #683e19;
+}
+
+.st12 {
+  fill: #937255;
+}
