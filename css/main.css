@@ -12,7 +12,7 @@ html {
   text-size-adjust: 100%;
 
   background-color: #efefef;
-  font-family: sans-serif;
+  font-family: 'Montserrat', sans-serif;
 }
 
 *, *::before, *::after {
@@ -23,6 +23,17 @@ html {
   width: 90%;
 }
 
+.time {
+  display: none;
+}
+
+.title {
+  width: 100%;
+}
+
+.graph {
+  width: 100%;
+}
 @media only screen and (min-width: 25em) {
 
 }

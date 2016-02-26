@@ -43,7 +43,6 @@
   text-rendering: auto;
   vertical-align: top;
   word-spacing: normal;
-  display: inline-block;
   visibility: visible;
 }
 
@@ -70,7 +69,6 @@
 }
 
 .unit-xs-1, .xs-1 {
-  display: block;
   visibility: visible;
   width: 100%;
 }
